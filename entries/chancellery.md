@@ -1,3 +1,5 @@
+![chancellery](./imgs/chancellery.webp)
+
 # chancellery
 
 > chancellery という単語の意味を、例文とあわせて教えてください
