@@ -1,3 +1,5 @@
+![raillery](./imgs/raillery.webp)
+
 # raillery
 
 ## raillery という言葉の意味を、例文とあわせて教えてください
