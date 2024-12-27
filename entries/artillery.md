@@ -1,3 +1,5 @@
+![artillery](./imgs/artillery.webp)
+
 # artillery
 
 > artillery という言葉の意味を、例文とあわせて教えてください
