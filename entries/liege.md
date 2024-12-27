@@ -1,3 +1,5 @@
+![liege](./imgs/liege.webp)
+
 # liege
 
 ## liege という単語の意味を、例文とあわせて教えてください
