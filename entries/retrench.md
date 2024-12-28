@@ -1,3 +1,5 @@
+![retrench](./imgs/retrench.webp)
+
 # retrench
 
 ## retrench という単語の意味を、例文とあわせて教えてください

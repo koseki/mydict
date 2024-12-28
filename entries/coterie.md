@@ -1,3 +1,5 @@
+![coterie](./imgs/coterie.webp)
+
 # coterie
 
 ## coterie という単語の意味を、例文とあわせて教えてください

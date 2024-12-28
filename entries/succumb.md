@@ -1,3 +1,5 @@
+![succumb](./imgs/succumb.webp)
+
 # succumb
 
 ## succumb という単語の意味を、例文とあわせて教えてください
