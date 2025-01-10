@@ -1,3 +1,4 @@
+![pointblank](./imgs/pointblank.webp)
 # pointblank
 
 ## pointblank という単語の意味を、例文とあわせて教えてください
