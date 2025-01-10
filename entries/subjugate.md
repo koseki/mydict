@@ -22,8 +22,6 @@ subjugateは、often forcefully（力づくで）あるいはagainst one's will�
 
 ## 語源をおしえてください
 
-2 / 2
-
 subjugateの語源を説明いたします。
 
 この単語はラテン語に由来します：
